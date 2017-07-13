@@ -1,0 +1,26 @@
+
+
+header,footer {
+    padding: 1px;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.wp-container
+{
+  font-family: Raleway;
+
+}
+.wp-col-2
+{
+  display: inline-block;
+  width: 33%;
+  background-color: #ab9ca8;
+  margin:5px auto;
+  text-align: center;
+  padding: 60px 0;
+  
+}
